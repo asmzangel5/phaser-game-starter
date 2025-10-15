@@ -1,0 +1,10 @@
+{
+  "name": "phaser-game-starter",
+  "version": "1.0.0",
+  "description": "Phaser.js game starter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
